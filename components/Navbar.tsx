@@ -1,5 +1,6 @@
 const  Navbar= () => {
-    return ( <div>
+    return ( 
+    <div className="text-white">
         hiii
     </div>
 
